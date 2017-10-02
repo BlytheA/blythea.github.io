@@ -1,0 +1,24 @@
+body {
+	background-color: #F1F0E5
+}
+
+h1 {
+  font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: center;
+	color:#3EA748;
+	font-size: 40pt;
+}
+
+h3 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: center;
+	color:#3EA748;
+	font-size: 32pt;
+}
+
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: justify;
+	color: #589200
+}
+
